@@ -23,11 +23,14 @@ Other
 * TILDA Textil Dataset 1996<br />
 https://lmb.informatik.uni-freiburg.de/resources/datasets/tilda.en.html
 
+* Wood Defect Dataset 2003<br />
+http://www.ee.oulu.fi/~olli/Projects/Lumber.Grading.html
+
 * NEU Surface Defect Dataset 2013<br />
 http://faculty.neu.edu.cn/yunhyan/NEU_surface_defect_database.html
 
-* RSDDs Rail Surface Dataset<br />
+* RSDDs Rail Surface Dataset 2017<br />
 http://icn.bjtu.edu.cn/Visint/resources/RSDDs.aspx
 
-* Magnetic tile dataset 2018<br />
+* Magnetic Tile Dataset 2018<br />
 https://github.com/abin24/Magnetic-tile-defect-datasets.
