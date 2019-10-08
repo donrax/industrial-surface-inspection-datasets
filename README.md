@@ -5,26 +5,26 @@ A listing of datasets for different industrial inspection tasks.
 These datasets range from different textured surfaces to varying products.
 Deep Learning, Computer Vision, and Automated Optical Inspection
 
-* DAGM 2007
-# https://hci.iwr.uni-heidelberg.de/node/3616
+* DAGM 2007<br />
+https://hci.iwr.uni-heidelberg.de/node/3616
 
-* Kolektor Surface-Defect Dataset 2019
+* Kolektor Surface-Defect Dataset 2019<br />
 https://www.vicos.si/Downloads/KolektorSDD
 
-* MVTec Anomaly Detection Dataset (MVTec AD) 2019
+* MVTec Anomaly Detection Dataset (MVTec AD) 2019<br />
 https://www.mvtec.com/company/research/datasets/mvtec-ad/
 
-* Textures Classification Dataset 2019
+* Textures Classification Dataset 2019<br />
 https://github.com/abin24/Textures-Dataset
 
 Other 
 
 
-* TILDA Textil Dataset 1996
+* TILDA Textil Dataset 1996<br />
 https://lmb.informatik.uni-freiburg.de/resources/datasets/tilda.en.html
 
-* NEU Surface Defect Dataset 2013
+* NEU Surface Defect Dataset 2013<br />
 http://faculty.neu.edu.cn/yunhyan/NEU_surface_defect_database.html
 
-* Magnetic tile dataset 2018
+* Magnetic tile dataset 2018<br />
 https://github.com/abin24/Magnetic-tile-defect-datasets.
