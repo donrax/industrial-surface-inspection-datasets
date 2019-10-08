@@ -6,7 +6,7 @@ These datasets range from different textured surfaces to varying products.
 Deep Learning, Computer Vision, and Automated Optical Inspection
 
 * DAGM 2007
-https://hci.iwr.uni-heidelberg.de/node/3616
+# https://hci.iwr.uni-heidelberg.de/node/3616
 
 * Kolektor Surface-Defect Dataset 2019
 https://www.vicos.si/Downloads/KolektorSDD
