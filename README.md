@@ -26,5 +26,8 @@ https://lmb.informatik.uni-freiburg.de/resources/datasets/tilda.en.html
 * NEU Surface Defect Dataset 2013<br />
 http://faculty.neu.edu.cn/yunhyan/NEU_surface_defect_database.html
 
+* RSDDs Rail Surface Dataset<br />
+http://icn.bjtu.edu.cn/Visint/resources/RSDDs.aspx
+
 * Magnetic tile dataset 2018<br />
 https://github.com/abin24/Magnetic-tile-defect-datasets.
