@@ -2,7 +2,6 @@
 Datasets for industrial surface inspection
 
 A listing of datasets for different industrial inspection tasks. 
-These datasets range from different textured surfaces to varying products.
 Keywords: deep Learning, computer vision, automated inspection.
 
 * DAGM 2007<br />
