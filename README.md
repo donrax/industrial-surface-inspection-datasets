@@ -27,4 +27,4 @@ https://lmb.informatik.uni-freiburg.de/resources/datasets/tilda.en.html
 http://faculty.neu.edu.cn/yunhyan/NEU_surface_defect_database.html
 
 * Magnetic tile dataset 2018<br />
-https://github.com/abin24/Magnetic-tile-defect-datasets
+https://github.com/abin24/Magnetic-tile-defect-datasets.
