@@ -1,5 +1,5 @@
 # industrial-surface-inspection-datasets
-Datasets for industrial inspection
+Datasets for industrial surface inspection
 
 A collection of datasets for different industrial inspection tasks. 
 These datasets range from textured surfaces to different products.
