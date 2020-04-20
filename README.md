@@ -1,7 +1,7 @@
 # industrial-surface-inspection-datasets
 Datasets for industrial surface inspection
 
-A listing of datasets for different industrial inspection tasks, such as defect and anomaly detection on varying surfaces.<br\>
+A listing of datasets for different industrial inspection tasks, such as defect and anomaly detection on varying surfaces.<br/>
 Keywords: deep Learning, computer vision, machine vision, automated inspection
 
 * DAGM 2007<br />
