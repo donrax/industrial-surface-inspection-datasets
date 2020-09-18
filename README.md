@@ -33,9 +33,9 @@ https://lmb.informatik.uni-freiburg.de/resources/datasets/tilda.en.html
 Inactive
 
 
-* NEU Surface Defect Dataset 2013<br />
-http://faculty.neu.edu.cn/yunhyan/NEU_surface_defect_database.html
-
 * RSDDs Rail Surface Dataset 2017<br />
 http://icn.bjtu.edu.cn/Visint/resources/RSDDs.aspx
+
+* NEU Surface Defect Dataset 2013<br />
+http://faculty.neu.edu.cn/yunhyan/NEU_surface_defect_database.html
 
