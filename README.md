@@ -26,7 +26,7 @@ https://lmb.informatik.uni-freiburg.de/resources/datasets/tilda.en.html
 http://www.ee.oulu.fi/~olli/Projects/Lumber.Grading.html
 
 * Magnetic Tile Dataset 2018<br />
-https://github.com/abin24/Magnetic-tile-defect-datasets.
+<https://github.com/abin24/Magnetic-tile-defect-datasets.>
 
 Inactive
 
