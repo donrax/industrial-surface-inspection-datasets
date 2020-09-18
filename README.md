@@ -1,8 +1,8 @@
 # industrial-surface-inspection-datasets
-Datasets for industrial surface inspection
+Datasets for: industrial surface inspection, defect detection, anomaly detection
 
 A listing of datasets for different industrial inspection tasks, such as defect and anomaly detection on varying surfaces.<br/>
-Keywords: deep Learning, computer vision, machine vision, automated inspection
+Keywords: deep Learning, computer vision, machine vision, automated inspection, surface inspection
 
 * MVTec Anomaly Detection Dataset (MVTec AD) 2019<br />
 https://www.mvtec.com/company/research/datasets/mvtec-ad/
@@ -20,8 +20,19 @@ https://hci.iwr.uni-heidelberg.de/node/3616
 Other 
 
 
+* Bridge Crack Datatset 2019<br />
+https://github.com/maweifei/Bridge_Crack_Image_Data
+
 * Magnetic Tile Dataset 2018<br />
 <https://github.com/abin24/Magnetic-tile-defect-datasets.>
+
+* Road Surface Cracks Dataset 2016<br />
+https://github.com/cuilimeng/CrackForest-dataset
+
+* NEU Surface Defect Dataset 2013<br />
+http://faculty.neu.edu.cn/yunhyan/NEU_surface_defect_database.html<br />
+Link to dataset can be found in the following pdf document<br />
+https://github.com/abin24/Surface-Inspection-defect-detection-dataset/blob/master/NEU_surface_defect_database.pdf
 
 * Wood Defect Dataset 2003<br />
 http://www.ee.oulu.fi/~olli/Projects/Lumber.Grading.html
@@ -30,12 +41,11 @@ http://www.ee.oulu.fi/~olli/Projects/Lumber.Grading.html
 https://lmb.informatik.uni-freiburg.de/resources/datasets/tilda.en.html
 
 
+
 Inactive
 
 
 * RSDDs Rail Surface Dataset 2017<br />
 http://icn.bjtu.edu.cn/Visint/resources/RSDDs.aspx
 
-* NEU Surface Defect Dataset 2013<br />
-http://faculty.neu.edu.cn/yunhyan/NEU_surface_defect_database.html
 
