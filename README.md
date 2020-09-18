@@ -22,6 +22,9 @@ https://github.com/maweifei/Bridge_Crack_Image_Data
 * Magnetic Tile Dataset 2018<br />
 <https://github.com/abin24/Magnetic-tile-defect-datasets.>
 
+* [**Inactive**] RSDDs Rail Surface Dataset 2017<br />
+http://icn.bjtu.edu.cn/Visint/resources/RSDDs.aspx
+
 * Road Surface Cracks Dataset 2016<br />
 https://github.com/cuilimeng/CrackForest-dataset
 
@@ -39,12 +42,5 @@ http://www.ee.oulu.fi/~olli/Projects/Lumber.Grading.html
 * TILDA Textil Dataset 1996<br />
 https://lmb.informatik.uni-freiburg.de/resources/datasets/tilda.en.html
 
-
-
-Inactive
-
-
-* RSDDs Rail Surface Dataset 2017<br />
-http://icn.bjtu.edu.cn/Visint/resources/RSDDs.aspx
 
 
