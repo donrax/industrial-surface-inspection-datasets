@@ -1,8 +1,10 @@
 # industrial-surface-inspection-datasets
-Datasets for: industrial surface inspection, defect detection, anomaly detection
+A listing of datasets for different industrial inspection tasks, such as defect and anomaly detection on varying surfaces.
+Datasets are intended for academic research only. No commercial usage is allowed. Links are to original author's pages, cite their work if you use dataset in your work.
 
-A listing of datasets for different industrial inspection tasks, such as defect and anomaly detection on varying surfaces.<br/>
-Keywords: deep Learning, computer vision, machine vision, automated inspection, surface inspection
+Keywords: dataset, industrial surface inspection, defect detection, anomaly detection,
+automated inspection, surface inspection, computer vision, machine vision, deep Learning
+
 
 * MVTec Anomaly Detection Dataset (MVTec AD) 2019<br />
 https://www.mvtec.com/company/research/datasets/mvtec-ad/
