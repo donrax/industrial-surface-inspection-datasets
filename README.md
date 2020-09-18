@@ -25,6 +25,9 @@ https://lmb.informatik.uni-freiburg.de/resources/datasets/tilda.en.html
 * Wood Defect Dataset 2003<br />
 http://www.ee.oulu.fi/~olli/Projects/Lumber.Grading.html
 
+* Magnetic Tile Dataset 2018<br />
+https://github.com/abin24/Magnetic-tile-defect-datasets.
+
 Inactive
 
 
@@ -35,5 +38,3 @@ http://faculty.neu.edu.cn/yunhyan/NEU_surface_defect_database.html
 * RSDDs Rail Surface Dataset 2017<br />
 http://icn.bjtu.edu.cn/Visint/resources/RSDDs.aspx
 
-* Magnetic Tile Dataset 2018<br />
-https://github.com/abin24/Magnetic-tile-defect-datasets.
