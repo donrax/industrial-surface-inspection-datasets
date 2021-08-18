@@ -22,7 +22,7 @@ and
 https://www.vicos.si/resources/kolektorsdd2/
 
 * Bridge Crack Datatset 2019<br />
-https://github.com/maweifei/Bridge_Crack_Image_Data
+https://github.com/maweifei/Bridge_Crack_Image_Data **[Inactive]**
 
 * Magnetic Tile Dataset 2018<br />
 <https://github.com/abin24/Magnetic-tile-defect-datasets.>
