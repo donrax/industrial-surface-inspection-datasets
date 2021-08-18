@@ -18,7 +18,7 @@ https://github.com/abin24/Textures-Dataset
 
 * Kolektor Surface-Defect Dataset 2019<br />
 https://www.vicos.si/resources/kolektorsdd/
-And
+and
 https://www.vicos.si/resources/kolektorsdd2/
 
 * Bridge Crack Datatset 2019<br />
