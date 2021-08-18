@@ -7,6 +7,9 @@ automated inspection, surface inspection, computer vision, machine vision, deep 
 segmentation, classification, saliency
 
 
+* SensumSODF Dataset 2021<br />
+https://www.sensum.eu/sensumsodf-dataset
+
 * MVTec Anomaly Detection Dataset (MVTec AD) 2019<br />
 https://www.mvtec.com/company/research/datasets/mvtec-ad/
 
@@ -14,7 +17,9 @@ https://www.mvtec.com/company/research/datasets/mvtec-ad/
 https://github.com/abin24/Textures-Dataset
 
 * Kolektor Surface-Defect Dataset 2019<br />
-https://www.vicos.si/Downloads/KolektorSDD
+https://www.vicos.si/resources/kolektorsdd/
+And
+https://www.vicos.si/resources/kolektorsdd2/
 
 * Bridge Crack Datatset 2019<br />
 https://github.com/maweifei/Bridge_Crack_Image_Data
