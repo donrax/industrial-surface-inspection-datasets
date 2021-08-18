@@ -39,7 +39,7 @@ Link to dataset can be found in the following pdf document<br />
 https://github.com/abin24/Surface-Inspection-defect-detection-dataset/blob/master/NEU_surface_defect_database.pdf
 
 * DAGM 2007<br />
-https://hci.iwr.uni-heidelberg.de/node/3616
+https://hci.iwr.uni-heidelberg.de/content/weakly-supervised-learning-industrial-optical-inspection
 
 * Wood Defect Dataset 2003<br />
 http://www.ee.oulu.fi/~olli/Projects/Lumber.Grading.html
