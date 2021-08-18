@@ -42,7 +42,7 @@ https://github.com/abin24/Surface-Inspection-defect-detection-dataset/blob/maste
 https://hci.iwr.uni-heidelberg.de/content/weakly-supervised-learning-industrial-optical-inspection
 
 * Wood Defect Dataset 2003<br />
-http://www.ee.oulu.fi/~olli/Projects/Lumber.Grading.html
+http://www.ee.oulu.fi/~olli/Projects/Lumber.Grading.html **[Inactive]** 
 
 * TILDA Textil Dataset 1996<br />
 https://lmb.informatik.uni-freiburg.de/resources/datasets/tilda.en.html
