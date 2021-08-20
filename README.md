@@ -45,8 +45,8 @@ https://github.com/Charmve/Surface-Defect-Detection/tree/master/CrackForest
 
 * NEU Surface Defect Dataset 2013<br />
 http://faculty.neu.edu.cn/yunhyan/NEU_surface_defect_database.html<br />
-Link to dataset can be found in the following pdf document<br />
-https://github.com/abin24/Surface-Inspection-defect-detection-dataset/blob/master/NEU_surface_defect_database.pdf
+<>Link to dataset can be found in the following pdf document<br />
+<>https://github.com/abin24/Surface-Inspection-defect-detection-dataset/blob/master/NEU_surface_defect_database.pdf
 
 * DAGM 2007<br />
 https://hci.iwr.uni-heidelberg.de/content/weakly-supervised-learning-industrial-optical-inspection
