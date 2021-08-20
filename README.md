@@ -1,10 +1,12 @@
 # industrial-surface-inspection-datasets
-A listing of datasets for different industrial inspection tasks, such as defect and anomaly detection on varying surfaces.
-Datasets are intended for academic research only. Links are to original author's pages, cite their work if you use these datasets in your work.
+A listing of datasets for different industrial inspection tasks, such as defect and anomaly detection on varying surfaces.<br />
 
 Keywords: dataset, industrial surface inspection, defect detection, anomaly detection,
 automated inspection, surface inspection, computer vision, machine vision, deep Learning, 
 segmentation, classification, saliency
+
+**Datasets are intended for academic research only. Cite the original author's work if you use these datasets in your work.**
+
 
 
 * SensumSODF Dataset 2021<br />
