@@ -10,7 +10,7 @@ segmentation, classification, saliency
 * SensumSODF Dataset 2021<br />
 https://www.sensum.eu/sensumsodf-dataset
 
-* Industrial Wear Forecasting dataset 2021<br />
+* Industrial Wear Forecasting Dataset 2021<br />
 https://github.com/2Obe/BSData
 
 * MVTec Anomaly Detection Dataset (MVTec AD) 2019<br />
@@ -33,7 +33,7 @@ https://digitalcommons.usu.edu/all_datasets/48/
 * Insulator Data Set 2018<br />
 https://github.com/InsulatorData/InsulatorDataSet
 
-* Defective Solar Cells dataset 2018<br />
+* Defective Solar Cells Dataset 2018<br />
 https://github.com/zae-bayern/elpv-dataset
 
 * Magnetic Tile Dataset 2018<br />
