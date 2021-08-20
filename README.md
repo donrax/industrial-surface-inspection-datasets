@@ -40,7 +40,7 @@ https://github.com/zae-bayern/elpv-dataset
 http://icn.bjtu.edu.cn/Visint/resources/RSDDs.aspx **[Inactive]** 
 
 * Road Surface Cracks Dataset 2016<br />
-<!--- https://github.com/cuilimeng/CrackForest-dataset -->
+https://github.com/cuilimeng/CrackForest-dataset and
 https://github.com/Charmve/Surface-Defect-Detection/tree/master/CrackForest
 
 * NEU Surface Defect Dataset 2013<br />
