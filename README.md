@@ -25,10 +25,13 @@ and
 https://www.vicos.si/resources/kolektorsdd2/
 
 * Bridge Crack Datatset 2019<br />
-https://github.com/maweifei/Bridge_Crack_Image_Data **[Inactive]**
+https://github.com/Charmve/Surface-Defect-Detection/tree/master/Bridge_Crack_Image
 
 * A concrete crack image dataset for machine learning applications 2018:<br />
 https://digitalcommons.usu.edu/all_datasets/48/
+
+* Defective Solar Cells dataset 2018:
+https://github.com/zae-bayern/elpv-dataset
 
 * Magnetic Tile Dataset 2018<br />
 <https://github.com/abin24/Magnetic-tile-defect-datasets.>
@@ -37,7 +40,8 @@ https://digitalcommons.usu.edu/all_datasets/48/
 http://icn.bjtu.edu.cn/Visint/resources/RSDDs.aspx **[Inactive]** 
 
 * Road Surface Cracks Dataset 2016<br />
-https://github.com/cuilimeng/CrackForest-dataset
+# https://github.com/cuilimeng/CrackForest-dataset
+https://github.com/Charmve/Surface-Defect-Detection/tree/master/CrackForest
 
 * NEU Surface Defect Dataset 2013<br />
 http://faculty.neu.edu.cn/yunhyan/NEU_surface_defect_database.html<br />
