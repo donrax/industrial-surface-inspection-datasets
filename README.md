@@ -13,6 +13,9 @@ https://www.sensum.eu/sensumsodf-dataset
 * MVTec Anomaly Detection Dataset (MVTec AD) 2019<br />
 https://www.mvtec.com/company/research/datasets/mvtec-ad/
 
+* Severstal Steel Defect Detection 2019<br />
+https://www.kaggle.com/c/severstal-steel-defect-detection
+
 * Textures Classification Dataset 2019<br />
 https://github.com/abin24/Textures-Dataset
 
