@@ -10,6 +10,9 @@ segmentation, classification, saliency
 * SensumSODF Dataset 2021<br />
 https://www.sensum.eu/sensumsodf-dataset
 
+* Industrial Wear Forecasting dataset 2021<br />
+https://github.com/2Obe/BSData
+
 * MVTec Anomaly Detection Dataset (MVTec AD) 2019<br />
 https://www.mvtec.com/company/research/datasets/mvtec-ad/
 
