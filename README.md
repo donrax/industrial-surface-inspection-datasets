@@ -24,6 +24,9 @@ https://www.vicos.si/resources/kolektorsdd2/
 * Bridge Crack Datatset 2019<br />
 https://github.com/maweifei/Bridge_Crack_Image_Data **[Inactive]**
 
+* A concrete crack image dataset for machine learning applications 2018:
+https://digitalcommons.usu.edu/all_datasets/48/
+
 * Magnetic Tile Dataset 2018<br />
 <https://github.com/abin24/Magnetic-tile-defect-datasets.>
 
