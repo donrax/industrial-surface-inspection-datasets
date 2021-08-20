@@ -40,7 +40,8 @@ http://icn.bjtu.edu.cn/Visint/resources/RSDDs.aspx **[Inactive]**
 https://github.com/Charmve/Surface-Defect-Detection/tree/master/Bridge_Crack_Image
 
 * Road Surface Cracks Dataset 2016<br />
-https://github.com/cuilimeng/CrackForest-dataset and
+https://github.com/cuilimeng/CrackForest-dataset 
+and
 https://github.com/Charmve/Surface-Defect-Detection/tree/master/CrackForest
 
 * NEU Surface Defect Dataset 2013<br />
