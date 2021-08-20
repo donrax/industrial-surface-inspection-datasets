@@ -27,7 +27,10 @@ https://www.vicos.si/resources/kolektorsdd2/
 * A concrete crack image dataset for machine learning applications 2018:<br />
 https://digitalcommons.usu.edu/all_datasets/48/
 
-* Defective Solar Cells dataset 2018:
+* Insulator Data Set 2018<br />
+https://github.com/InsulatorData/InsulatorDataSet
+
+* Defective Solar Cells dataset 2018<br />
 https://github.com/zae-bayern/elpv-dataset
 
 * Magnetic Tile Dataset 2018<br />
@@ -44,6 +47,9 @@ https://github.com/cuilimeng/CrackForest-dataset
 and
 https://github.com/Charmve/Surface-Defect-Detection/tree/master/CrackForest
 
+* Kylberg Texture Dataset 2014<br />
+https://www.cb.uu.se/~gustaf/texture/
+
 * NEU Surface Defect Dataset 2013<br />
 http://faculty.neu.edu.cn/yunhyan/NEU_surface_defect_database.html<br />
 <!---
@@ -53,6 +59,9 @@ https://github.com/abin24/Surface-Inspection-defect-detection-dataset/blob/maste
 
 * DAGM 2007<br />
 https://hci.iwr.uni-heidelberg.de/content/weakly-supervised-learning-industrial-optical-inspection
+
+* Textures under varying Illumination 2006<br />
+https://www.csc.kth.se/cvap/databases/kth-tips/credits.html
 
 * Wood Defect Dataset 2003<br />
 http://www.ee.oulu.fi/~olli/Projects/Lumber.Grading.html **[Inactive]** 
