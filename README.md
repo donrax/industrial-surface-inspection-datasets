@@ -24,9 +24,6 @@ https://www.vicos.si/resources/kolektorsdd/
 and
 https://www.vicos.si/resources/kolektorsdd2/
 
-* Bridge Crack Datatset 2019<br />
-https://github.com/Charmve/Surface-Defect-Detection/tree/master/Bridge_Crack_Image
-
 * A concrete crack image dataset for machine learning applications 2018:<br />
 https://digitalcommons.usu.edu/all_datasets/48/
 
@@ -38,6 +35,9 @@ https://github.com/zae-bayern/elpv-dataset
 
 * RSDDs Rail Surface Dataset 2017<br />
 http://icn.bjtu.edu.cn/Visint/resources/RSDDs.aspx **[Inactive]** 
+
+* Bridge Crack Datatset 2016<br />
+https://github.com/Charmve/Surface-Defect-Detection/tree/master/Bridge_Crack_Image
 
 * Road Surface Cracks Dataset 2016<br />
 https://github.com/cuilimeng/CrackForest-dataset and
