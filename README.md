@@ -9,9 +9,6 @@ segmentation, classification, saliency
 
 
 
-* SensumSODF Dataset 2021<br />
-https://www.sensum.eu/sensumsodf-dataset
-
 * Industrial Wear Forecasting Dataset 2021<br />
 https://github.com/2Obe/BSData
 
